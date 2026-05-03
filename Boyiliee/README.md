@@ -1,0 +1,1 @@
+THE PYTORCH VERSION WAS TAKEN FROM https://github.com/MayankSingal/PyTorch-Image-Dehazing WHICH WAS ORIGINLLY FROM https://github.com/Boyiliee/AOD-Net . AND THE DATASETS FROM https://sites.google.com/site/boyilics/website-builder/project-page

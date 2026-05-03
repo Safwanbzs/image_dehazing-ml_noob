@@ -1,4 +1,4 @@
-THE PYTORCH VERSION WAS TAKEN FROM {'\n'}
+THE PYTORCH VERSION WAS TAKEN FROM 
 https://github.com/MayankSingal/PyTorch-Image-Dehazing
 WHICH WAS ORIGINLLY FROM https://github.com/Boyiliee/AOD-Net .
 AND THE DATASETS FROM
